@@ -1,1 +1,4 @@
-I don't know markdown.
+website-foundation-barebones
+============================
+
+Basic website with Zurb Foundation
